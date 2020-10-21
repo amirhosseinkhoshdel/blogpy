@@ -116,3 +116,7 @@ media/
 
 #blog app
 blog/migrations/
+
+
+#blogpy
+settings.py
