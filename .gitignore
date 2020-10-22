@@ -120,3 +120,6 @@ blog/migrations/
 
 #blogpy
 blogpy/settings.py
+
+#static files
+files/
