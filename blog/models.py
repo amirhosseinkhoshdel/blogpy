@@ -31,6 +31,7 @@ class Article(models.Model):
         updated_at = models.DateTimeField(auto_now=True, blank=False)
         category = models.ForeignKey("Category", on_delete=models.CASCADE)
         author = models.OneToOneField(UserProfile,on_delete=models.CASCADE)
+        status = models.IntegerField(default=0)
 
    
 
