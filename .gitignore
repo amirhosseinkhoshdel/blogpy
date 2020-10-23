@@ -123,3 +123,4 @@ blogpy/settings.py
 
 #static files
 files/
+requirements/
