@@ -125,4 +125,5 @@ blogpy/settings.py
 files/
 requirements/
 template_raw/
+static/
 staticfiles/
